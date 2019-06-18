@@ -1,0 +1,10 @@
+---
+title: "R_MySQL_Operating"
+author: "racher"
+date: "2019/6/18"
+output: html_document
+---
+
+### 一、MySQL数据库安装
+
+### 二、RMySQL 包安装
