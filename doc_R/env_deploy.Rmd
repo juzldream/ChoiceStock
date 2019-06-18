@@ -1,0 +1,33 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+R 、Rstudio 、MySQL 环境部署说密码文档。
+
+***
+
+### 安装R
+
+### 安装Rstudio
+
+### 安装MySQL
+
+1. 下载MySQL数据库；
+
+2. 安装MySQL数据库；
+
+3. 连接MySQL数据库；
+
+```{sql connection=}
+library("DBI")
+library("RMySQL")
+connection=dbConnect(MySQL(), user = 'root', password = '123.com', dbname = 'Learn_R_Stock',host = 'localhost')
+```
+
+
+
+
+
+
+
